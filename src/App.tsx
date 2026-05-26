@@ -1785,7 +1785,7 @@ function App() {
           >
             <Paper
               component='a'
-              href='https://t.me/eqeq_eq'
+              href='https://t.me/EqChat_Bot'
               target='_blank'
               rel='noopener noreferrer'
               elevation={2}
